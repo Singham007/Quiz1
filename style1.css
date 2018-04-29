@@ -1,0 +1,28 @@
+#log{
+
+    background-color: sky-blue;
+    padding: 10px 50px 50px 50px;
+   
+	
+	
+	
+}
+.first{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(100, 100, 200);
+    padding: 10px 50px 50px 50px;
+    border-radius: 50px;
+    border: 2px solid #cbcbcb;
+    box-shadow: 10px 15px 5px #cbcbcb;	
+}
+.first h1 {
+    font-family: "sans-serif";
+    background-color: Green;
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    padding: 2px 0px;
+    border-radius: 50px;
+}
